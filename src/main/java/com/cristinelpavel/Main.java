@@ -9,5 +9,6 @@ public class Main {
 
   private static void printUt5Message() {
     System.out.println("Cristinel Pavel Alergus - UT5 Git - Entornos de desarrollo - DAM 2024");
+    System.out.println("Línea de código añadida por John Michael Posada");
   }
 }
